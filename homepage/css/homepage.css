@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 50px;
+}
+
+.a,p, h1{
+    font-size: 20px;
+}
+
+
+.a{
+    color: black;
+}
+
+p{    text-align: center;
+    color:blue}
+
+h1{
+    padding: 10px;
+    background-color: #b1c8da;
+    color: #fff;    
+    text-align: center;
+}
+
+#container{
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #000;    
+}
+.b{
+    font-family: 바탕;
+}
+.c{
+    text-align: end;
+    line-height: 100px;
+    }
