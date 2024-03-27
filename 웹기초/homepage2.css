@@ -1,0 +1,22 @@
+p{
+    background-color: rgb(197, 112, 0);
+    text-align: left;
+    color: aqua;
+    padding: 20px;
+}
+.a{
+    background-color: rgb(192, 118, 22);
+   /* text-align: center; */
+
+    color: black;
+    padding: 15px;
+}
+h1{
+    background-color: rgb(223, 150, 54);
+    /* text-align: justify; */
+    color: black;
+    padding: 50px;
+}
+
+
+
