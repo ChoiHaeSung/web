@@ -1,0 +1,33 @@
+#dontainer{
+    width: 1200px;
+    margin: 20px auto;
+}
+#header{
+    width: 90% auto;
+    height: 120px;
+    background-color: rgba(219, 219, 219, 0.822);
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#section{
+    width: 90%;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;        
+}
+#footer{
+    width: 90% auto;
+    height: 100px;
+    background-color: rgba(219, 219, 219, 0.822);
+    clear: left;
+    margin-left: 20px;
+}
+#tests{
+
+}
+#test{
+    width: 50px;
+    height: 80px;
+}
+
