@@ -1,18 +1,15 @@
 h1{
     text-align: center;
-   
-}
-
-.tents{
-    text-align: center;
+    
 }
 #container{
-    width: 1200px;
+    width: 100%;
     margin: 20px auto;
+    
 }   
 
 #header{
-    width: 90% auto;
+    width: 100% auto;
     height: 120px;
     background-color: rgba(219, 219, 219, 0.822);
     margin-left: 20px;
@@ -20,23 +17,37 @@ h1{
     margin-right: 20px;
 }
 #section{
-    width: 90%;
-    height: 800px;
+    width: 100%;
+    height: 100%;
     background-color: rgb(255, 255, 255);
-    margin-left: 20px;        
 }
-#footer{
-    width: 90% auto;
-    height: 100px;
-    background-color: rgba(219, 219, 219, 0.822);
-    clear: left;
-    margin-left: 20px;
-}
-#tests{
 
+.tests{
+    text-align: center;
+    margin: 110px 10px 10xp 0xp ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 5%;
 }
-#test{
-    width: 50px;
-    height: 80px;
+.test{
+    width: 225px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 15px;
+}
+/* .wrapper{
+    height: auto;
+    padding-bottom: 100px;
+    min-height: calc(100vh - 100px);
+} */
+.footer{
+    width: 100%;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.987);
+    clear: left;
+    text-align: center;
+    position : fixed;
+    bottom : 0px;
 }
 
