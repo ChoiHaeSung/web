@@ -1,0 +1,33 @@
+<html>
+  <head></head>
+  <body>
+    <form>
+
+      <label for="memo">메모</label>
+      <textarea id="memo" cols="40" rows="4"></textarea>
+      <br><br>
+      <label for="prod1">상품선택</label>
+      <br>
+      <select id="prod1">
+        <option value="special_3">선물용 3kg</option>
+        <option value="special_5">선물용 5kg</option>
+        <option value="family_3">가정용 3kg</option>
+        <option value="family_5">가정용 5kg</option>
+      </select>
+      <br><br>
+      <label for="prod2">포장여부</label>
+      <input type="text" id="prod2" list="pack">
+      <datalist id="pack">
+        <option value="package">선물포장</option>
+        <option value="no_package">선물포장 안함</option>
+      </datalist>
+      <br>
+      <button type="submit">주문하기</button>
+      <button type="reset">취소하기</button>
+    </form>
+      
+    
+    
+
+  </body>
+</html>
