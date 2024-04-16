@@ -1,0 +1,65 @@
+<!-- <> = 시맨틱 태그 : 의미론적인 의미가 통하는 뜻 -->
+<!DOCTYPE html> <!-- 문서 유형-->
+<html lang="ko"> <!-- 무슨 언어를 사용할 것인가--> 
+<head> <!--웹 상단부-->
+    <meta charset="UTF-8"> <!--웹에 한글로 된 내용을 표시-->   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>목록 만들기</title> <!--웹 페이지 이름-->
+    <!-- HTML용 CSS 사용하는 용어 -->
+    <style>
+        h1{
+            /* 글자 사이즈 */
+            font-size: 100px;
+        }
+        #ac{
+            /* 배경 색 */
+            background-color: rgb(0, 0, 0);
+            /* 글자 위치 설정 */
+            text-align: center;
+        }
+        .tq{
+            /* 글자 색 */
+            color: rgb(255, 255, 255);
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.369);
+            /* 가로 크기 */
+            width: 100%;
+            /* 세로 크기 */
+            height: 30px;
+            text-align: center;
+        }
+        li{
+            color: gray;
+        }
+    </style>
+</head>
+<body><!-- 웹 중간부-->
+    <h1>시험 공부 목록</h1><!-- 큰 글씨-->
+    <ol id="ac"><!--항목의 순서가 필요할 때 사용-->
+        <li><span class="tq">웹기초</span> - 최길림 교수님</li><!--li = 항목 앞에 구분하는데 이 작은 그림 = 볼릿(=Bullet) -->
+        <li><span class="tq">문제해결능력</span> - 김상석 교수님</li><!--class = 여러개의 요소-->
+        <li><span class="tq">컴퓨터 활용</span> - 이제동 교수님</li>
+        <li><span class="tq">실용영어</span> - 김상석 교수님</li>
+        <li><span class="tq">프로그래밍 기초</span> - 안성우 교수님</li>
+        <li><span class="tq">데이터베이스</span> - 안진영 교수님</li>
+    </ol>
+    <h2>범위</h2>
+    <ul id="tt"><!--항목의 순서가 중요하지 않을 떄 사용-->
+        <li><span class="wf">웹기초</span>7장</li><!--id, 하나의 요소-->
+        <li><span class="wf">문제해결능력</span>100P</li>
+        <li><span class="wf">컴퓨터 활용</span>5장</li>
+        <li><span class="wf">실용영어</span>3장</li>
+        <li><span class="wf">프로그래밍 기초</span>3장(제어문) - 193P</li>
+        <li><span class="wf">데이터베이스</span>5장</li>
+    </ul>
+    <dl><!--설명 목록 : 이름과 값 형태로 된 목록-->
+        <dt>하구싶은 것들</dt><!--이름 부분을 지정-->
+        <dd>놀기</dd><!--태그와 값(설명)부분을 지정-->    
+        <dd>공부</dd>    
+        <dd>운동</dd>    
+    </dl>
+</body>
+<footer><!--웹 하단부-->
+
+</footer>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>표 만들기</title>
+    <style>
+        th, tr, td{
+            width: 100px;
+            height: 50px;
+            text-align: center;
+        }
+        .t{
+            background-color: rgba(255, 255, 255, 0.764);
+        }
+        th{
+            background-color: rgba(13, 0, 0, 0.218);
+        }
+        .mon{
+            background-color: rgb(255, 109, 109);
+        }
+        .tue{
+            background-color: rgb(112, 112, 199);
+        }
+        .wedn{
+            background-color: rgb(105, 186, 105);
+        }
+        .thur{
+            background-color: rgb(255, 255, 140);
+        }
+
+    </style>
+</head>
+<body>
+    <table>
+        <caption>중간고사 시간표</caption>
+        <thead>
+            <tr><!-- 표의 행(가로) -->
+                <th>시간표</th><!-- td, th = 표의 행(세로) 안의 있는 셀 -->
+                <th>월</th><!--th = thead-->
+                <th>화</th>
+                <th>수</th>
+                <th>목</th>
+                <th>금</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="t">1교시</td><!-- td = tbody-->
+                <td></td> 
+                <td></td> 
+                <td></td> 
+                <td rowspan="2" class="thur">파이썬</td>        
+                
+            </tr>
+            <tr>
+                <td class="t">2교시</td>
+            </tr>
+            <tr>
+                <td class="t">3교시</td>
+                <td></td>
+                <td rowspan="2" class="tue">문제해결 능력</td>
+                <td></td>
+                <td rowspan="2" class="thur">데이터 베이스</td>
+            </tr>
+            <tr>
+                <td class="t">4교시</td>
+            </tr>
+            <tr>
+                <td class="t">5교시</td>
+                <td></td>
+                <td></td>
+                <td rowspan="2" class="wedn">실용영어</td>
+            </tr>
+            <tr>
+                <td class="t">6교시</td>
+                <td rowspan="3" class="mon">웹 기초</td>
+                <td rowspan="3" class="tue">컴퓨터 활용</td>
+                <td rowspan="2" class="fri"></td>
+            </tr>
+            <tr>
+                <td class="t">7교시</td>
+            </tr>
+            <tr>
+                <td class="t">8교시</td>
+            </tr>
+            <tr>
+                <td class="t">9교시</td>
+            </tr>
+        </tbody>
+        </table>
+        
+    </body>
+    </html>
