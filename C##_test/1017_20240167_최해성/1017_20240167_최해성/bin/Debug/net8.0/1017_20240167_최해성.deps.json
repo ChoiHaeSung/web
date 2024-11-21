@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1017_20240167_최해성/1.0.0": {
+        "runtime": {
+          "1017_20240167_최해성.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1017_20240167_최해성/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

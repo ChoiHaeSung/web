@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\D503\Desktop\20240167 1-B\C##_test\0919_20240167_1-B_최해성.cs" Link="0919_20240167_1-B_최해성.cs" />
+  </ItemGroup>
+
 </Project>

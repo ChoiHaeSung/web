@@ -1,0 +1,14 @@
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.AssemblyInfoInputs.cache
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.AssemblyInfo.cs
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.csproj.CoreCompileInputs.cache
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\bin\Debug\net8.0\1107_20240167.exe
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\bin\Debug\net8.0\1107_20240167.deps.json
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\bin\Debug\net8.0\1107_20240167.runtimeconfig.json
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\bin\Debug\net8.0\1107_20240167.dll
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\bin\Debug\net8.0\1107_20240167.pdb
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.dll
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\refint\1107_20240167.dll
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.pdb
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\1107_20240167.genruntimeconfig.cache
+C:\Users\D503\source\repos\1107_20240167\1107_20240167\obj\Debug\net8.0\ref\1107_20240167.dll

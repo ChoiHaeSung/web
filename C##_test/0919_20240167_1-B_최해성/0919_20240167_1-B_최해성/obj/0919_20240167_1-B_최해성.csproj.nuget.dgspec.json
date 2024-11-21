@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D503\\Desktop\\20240167 1-B\\C##_test\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj": {}
+    "C:\\Users\\D503\\source\\repos\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D503\\Desktop\\20240167 1-B\\C##_test\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj": {
+    "C:\\Users\\D503\\source\\repos\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D503\\Desktop\\20240167 1-B\\C##_test\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj",
+        "projectUniqueName": "C:\\Users\\D503\\source\\repos\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj",
         "projectName": "0919_20240167_1-B_최해성",
-        "projectPath": "C:\\Users\\D503\\Desktop\\20240167 1-B\\C##_test\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj",
+        "projectPath": "C:\\Users\\D503\\source\\repos\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성.csproj",
         "packagesPath": "C:\\Users\\D503\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D503\\Desktop\\20240167 1-B\\C##_test\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\obj\\",
+        "outputPath": "C:\\Users\\D503\\source\\repos\\0919_20240167_1-B_최해성\\0919_20240167_1-B_최해성\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
