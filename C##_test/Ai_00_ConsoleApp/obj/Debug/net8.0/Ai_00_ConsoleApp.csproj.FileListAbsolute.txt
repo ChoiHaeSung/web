@@ -1,0 +1,14 @@
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\bin\Debug\net8.0\Ai_00_ConsoleApp.exe
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\bin\Debug\net8.0\Ai_00_ConsoleApp.deps.json
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\bin\Debug\net8.0\Ai_00_ConsoleApp.runtimeconfig.json
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\bin\Debug\net8.0\Ai_00_ConsoleApp.dll
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\bin\Debug\net8.0\Ai_00_ConsoleApp.pdb
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.AssemblyInfo.cs
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.dll
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\refint\Ai_00_ConsoleApp.dll
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.pdb
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\Ai_00_ConsoleApp.genruntimeconfig.cache
+C:\Users\D503\source\repos\Ai_00_ConsoleApp\obj\Debug\net8.0\ref\Ai_00_ConsoleApp.dll

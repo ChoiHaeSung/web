@@ -1,0 +1,15 @@
+C:\Users\D503\source\repos\20241128_최해성\bin\Debug\20241128_최해성.exe.config
+C:\Users\D503\source\repos\20241128_최해성\bin\Debug\20241128_최해성.exe
+C:\Users\D503\source\repos\20241128_최해성\bin\Debug\20241128_최해성.pdb
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.csproj.AssemblyReference.cache
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\MainWindow.g.cs
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\App.g.cs
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성_MarkupCompile.cache
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성_MarkupCompile.lref
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\MainWindow.baml
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.g.resources
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\_20241128_최해성.Properties.Resources.resources
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.csproj.GenerateResource.cache
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.csproj.CoreCompileInputs.cache
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.exe
+C:\Users\D503\source\repos\20241128_최해성\obj\Debug\20241128_최해성.pdb

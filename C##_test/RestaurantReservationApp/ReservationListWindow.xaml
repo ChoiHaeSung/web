@@ -1,0 +1,18 @@
+﻿<Window x:Class="RestaurantReservationApp.ReservationListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="예약 리스트" Height="500" Width="600">
+    <Grid>
+        <!-- 예약 리스트 제목 -->
+        <TextBlock Text="예약 리스트" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10"/>
+
+        <!-- 예약 날짜를 선택하는 캘린더 -->
+        <Calendar Name="ReservationCalendar" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,50,0,0" SelectedDatesChanged="ReservationCalendar_SelectedDatesChanged"/>
+
+        <!-- 예약 목록을 보여줄 ListBox -->
+        <ListBox Name="ReservationListBox" Width="550" Height="200" Margin="25,215,25,50"/>
+
+        <!-- 예약 추가 버튼 -->
+        <Button Name="AddReservationButton" Content="예약 추가" Width="200" Height="40" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10" Click="AddReservationButton_Click"/>
+    </Grid>
+</Window>

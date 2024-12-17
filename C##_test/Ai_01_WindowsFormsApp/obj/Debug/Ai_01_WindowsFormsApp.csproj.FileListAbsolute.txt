@@ -1,0 +1,44 @@
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.exe.config
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.exe
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.pdb
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.Form1.resources
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.Properties.Resources.resources
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.exe
+C:\Users\D503\source\repos\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.pdb
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.exe.config
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.exe
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\Ai_01_WindowsFormsApp.pdb
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.Form1.resources
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.Properties.Resources.resources
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.exe
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_WindowsFormsApp.pdb
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\EntityFramework.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\SQLite-net.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Buffers.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Memory.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\EntityFramework.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\SQLite-net.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Buffers.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Memory.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\D503\Desktop\20240167 1-B\Tree\C##_test\Ai_01_WindowsFormsApp\obj\Debug\Ai_01_Wi.3EE16618.Up2Date

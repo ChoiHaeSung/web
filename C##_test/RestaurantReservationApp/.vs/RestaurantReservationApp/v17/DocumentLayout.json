@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\reservationlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:reservationlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\reservationlistwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:reservationlistwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|c:\\users\\d503\\desktop\\20240167 1-b\\tree\\c##_test\\restaurantreservationapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5D41802-D127-4E9B-BC48-3F5DF41086E3}|RestaurantReservationApp.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1196,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:30:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBotWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml",
+              "RelativeDocumentMoniker": "..\\ChatBotWindow.xaml",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml",
+              "RelativeToolTip": "..\\ChatBotWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T09:28:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\ReservationListWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationListWindow.xaml",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\ReservationListWindow.xaml",
+              "RelativeToolTip": "ReservationListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T08:26:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T06:38:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:38:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatBotWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ChatBotWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\ChatBotWindow.xaml.cs",
+              "RelativeToolTip": "..\\ChatBotWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:29:34.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\ReservationListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\ReservationListWindow.xaml.cs",
+              "RelativeToolTip": "ReservationListWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:27:34.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\D503\\Desktop\\20240167 1-B\\Tree\\C##_test\\RestaurantReservationApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T07:08:04.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
